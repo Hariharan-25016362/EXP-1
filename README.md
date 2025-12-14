@@ -38,39 +38,49 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
+
 
 CIRCUIT DIAGRAM:
 
 
 a.   KVL:
-![WhatsApp Image 2025-12-14 at 18 41 21_78515f59](https://github.com/user-attachments/assets/3d95ad06-b5c4-40cf-9963-a3718c10a12a)
+![WhatsApp Image 2025-12-14 at 18 58 38_5ed22fc2](https://github.com/user-attachments/assets/aada2656-e602-4f75-9384-dd973eaafd3d)
+
+
+
 
  
 
 
 b.  KCL:
-![WhatsApp Image 2025-12-14 at 18 41 21_cefbca1d](https://github.com/user-attachments/assets/f1b48fd3-8cc1-459e-850a-c9c0f2de7bcf)
+![WhatsApp Image 2025-12-14 at 18 58 37_6b3705e1](https://github.com/user-attachments/assets/dbf9cfcb-d3f3-41c3-ae63-79a892820541)
+
+
+
 
 CIRCUIT DIAGRAM
 a.  KVL:
-![WhatsApp Image 2025-12-14 at 18 41 21_cefbca1d](https://github.com/user-attachments/assets/3a8891c2-9717-4830-97a5-909fc1ad0728)
+<img width="1216" height="725" alt="Screenshot 2025-11-22 094307" src="https://github.com/user-attachments/assets/145f37c7-dd42-4bc0-bb3a-d46ffe03ad51" />
+
 
 b.  KCL:
-<img width="1119" height="669" alt="Screenshot 2025-12-14 184051" src="https://github.com/user-attachments/assets/a0130ca9-c3f0-43b0-8d2d-1ba917630127" />
+<img width="1119" height="669" alt="Screenshot 2025-12-14 184051" src="https://github.com/user-attachments/assets/6f28cf62-3ecc-492d-bf60-acde9a15b862" />
+
+
 
 
 
 Calculation:
 
 a.   KVL:
-![WhatsApp Image 2025-12-14 at 18 41 21_8d5fb03b](https://github.com/user-attachments/assets/ee39977c-c075-4fac-b722-d350640a4cec)
+![WhatsApp Image 2025-12-14 at 18 58 38_466da1b6](https://github.com/user-attachments/assets/fd68a097-0f95-4038-90bf-56ef4fa2e8c7)
+
 
  
 
 
 b.  KCL:
-![WhatsApp Image 2025-12-14 at 18 41 20_4e4be11e](https://github.com/user-attachments/assets/3a0d44c4-8144-40c3-b039-de54eae625ae)
+![WhatsApp Image 2025-12-14 at 18 58 37_1ac3665d](https://github.com/user-attachments/assets/94bed3c2-272a-47e8-a33b-c718938cf8f5)
 
 
 
@@ -79,13 +89,17 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
-![WhatsApp Image 2025-12-14 at 18 41 21_d9e84a36](https://github.com/user-attachments/assets/0814ad9c-818d-48b2-88ee-fa8a3fd0d802)
+![WhatsApp Image 2025-12-14 at 18 58 37_3ab6c52f](https://github.com/user-attachments/assets/4a7734de-742f-4047-ab55-9a39de355796)
+
+
 
  
 
 
 b.  KCL:
-![WhatsApp Image 2025-12-14 at 18 41 20_347fd091](https://github.com/user-attachments/assets/e04faaae-ea1f-4728-b19e-c52d0a547830)
+![WhatsApp Image 2025-12-14 at 18 58 37_8906657d](https://github.com/user-attachments/assets/b4055a75-3156-44ed-b60a-c1c819de5b18)
+
+
 
 
 
